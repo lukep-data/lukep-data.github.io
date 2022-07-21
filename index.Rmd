@@ -15,8 +15,6 @@ output:
 site: distill::distill_website
 ---
 
-## Bio 
-
 I am a Senior Statistician at LAPOP Lab at Vanderbilt University, where I coordinate nationwide surveys in four countries, lead data visualization tasks, present results for non-technical audiences, and head lab research on statistics and survey methodology. I have experience with in R, Stata, Tableau, SQL, and Python, and I excel at project management and written communication.
 
 ## Experience
@@ -25,7 +23,7 @@ I am a Senior Statistician at LAPOP Lab at Vanderbilt University, where I coordi
 
 Senior Statistician | January 2022 --
 
-Statistician II | September 2020 -- January 2022
+Statistician | September 2020 -- January 2022
 
 
 ## Education

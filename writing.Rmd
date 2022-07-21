@@ -1,0 +1,39 @@
+---
+title: "Reports and Articles"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 2022
+
+### [Telephone Sampling in the 2021 AmericasBarometer](https://www.vanderbilt.edu/lapop/insights/IMN009en.pdf)
+
+Methodological note describing LAPOP's sampling strategy for the 2021 AmericasBarometer.
+
+### [The Political Culture of Democracy in Jamaica and in the Americas, 2021: Taking the Pulse of Democracy](https://www.vanderbilt.edu/lapop/jamaica/AB2021JAM-Country-Report-English-Final-220411.pdf)
+
+![](_gallery/img/jam_obs.jpg)
+
+Authored chapters 4-6 of a book-length report on results from a 2021 survey in Jamaica.
+
+The report received coverage from local media including [The Jamaica Observer](https://www.jamaicaobserver.com/news/corruption-contradiction/), [Nationwide Radio](https://nationwideradiojm.com/59-of-jamaicans-believe-the-islands-elite-can-buy-elections/), and [The Jamaica Gleaner](https://jamaica-gleaner.com/article/commentary/20220614/editorial-dr-clarkes-ministerial-bull).  
+
+### [Pulse of Democracy](https://www.vanderbilt.edu/lapop/ab2021/2021_LAPOP_AmericasBarometer_2021_Pulse_of_Democracy.pdf)
+
+Spotlight report on support for coups in Brazil (p. 54), in addition to co-authored pieces on the economic impact of COVID (p. 28-29) and trust in elections in the Dominican Republic (p. 50-51). 
+
+### [Would Americans ever support a coup? 40 percent now say yes.](https://www.washingtonpost.com/politics/2022/01/06/us-coup-republican-support/)
+
+![](_gallery/img/imrs.jpg)
+
+Co-authored piece in the Washington Post describing results of a survey gauging support for military coups among Americans.  
+
+
+## 2021
+
+### [Pandemic Concern, Democratic Stress, and Methodological Innovation in LAPOP’s 2020 “Off-Cycle” Studies: An Executive Summary Report](https://www.vanderbilt.edu/lapop/insights/IO947en.pdf)
+
+Executive summary of four surveys conducted in 2020.  

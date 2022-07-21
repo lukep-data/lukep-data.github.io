@@ -5,7 +5,24 @@ description: |
 theme: theme.css
 output_dir: "."
 navbar:
+  search: false
   right:
     - text: "Home"
       href: index.html
+    - text: "Data Visualization"
+      href: viz.html
+    - text: "Reports & Articles"
+      href: writing.html
+    - text: "Research"
+      href: academicpubs.html
+          
+    - icon: fas fa-envelope
+      href: mailto:luke.plutowski@vanderbilt.com
+    - icon: fab fa-twitter
+      href: https://twitter.com/lukeplutowski
+    - icon: fa fa-linkedin-square
+      href: https://linkedin.com/in/luke-p-data
+    - icon: fab fa-github
+      href: https://github.com/lukep-data/
+
 output: distill::distill_article
