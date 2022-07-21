@@ -1,6 +1,5 @@
 ---
 title: "Academic Research"
-output: distill::distill_article
 ---
 
 ## Publications

@@ -1,6 +1,5 @@
 ---
 title: "Data Visualization Projects"
-output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
