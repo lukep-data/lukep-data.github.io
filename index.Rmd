@@ -3,7 +3,7 @@ title: "Luke Plutowski"
 image: "images/LukePlutowski_loews_edit2.jpg"
 links:
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:luke.plutowski@vanderbilt.com"
+    url: "mailto:luke.plutowski@vanderbilt.edu"
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/lukeplutowski"
   - label: '<i class="fa fa-linkedin-square"></i> LinkedIn'
