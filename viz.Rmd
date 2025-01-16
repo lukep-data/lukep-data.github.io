@@ -8,16 +8,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## `lapop` R package
 
+I am the creator and manager of the `lapop` R package, which automates the process of creating a variety of graphs using LAPOP data and formatting standards. 
+
 **Links:** [Source Code](https://github.com/lapop-central/lapop-viz)
 
 ![](_gallery/img/db1.svg)
 
-I am the creator and manager of the `lapop` R package, which automates the process of creating a variety of graphs using LAPOP data and formatting standards. 
-
 ## LAPOP Data Playground
+
+I am the current manager of LAPOP's Data Playground, an interactive data visualization tool created in Tableau.  
 
 **Links:** [Data Playground](https://public.tableau.com/app/profile/lapop.central/viz/LAPOPV3_2/Combination?publish=yes) | [Source Code](https://github.com/vanderbilt-data-science/lapop-dashboard/tree/remove-label-numbers)
 
 ![](_gallery/img/dp.png)
 
-I am the current manager of LAPOP's Data Playground, an interactive data visualization tool created in Tableau.  

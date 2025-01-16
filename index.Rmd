@@ -1,6 +1,6 @@
 ---
 title: "Luke Plutowski"
-image: "images/LukePlutowski_loews_edit2.jpg"
+image: "images/241113-luke-headshot-2.jpg"
 links:
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:luke.plutowski@vanderbilt.edu"

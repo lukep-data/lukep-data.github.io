@@ -1,10 +1,23 @@
 ---
-title: "Reports and Articles"
+title: "Selected Reports and Articles"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## 2024
+
+Authored three full-length reports detailing survey results from the Caribbean.  
+
+### [LAPOP’s AmericasBarometer takes the Pulse of Democracy in Jamaica 2023](https://www.vanderbilt.edu/lapop/jamaica/ABJAM2023-Pulse-of-democracy-final-20240703.pdf)
+
+### [LAPOP’s AmericasBarometer takes the Pulse of Democracy in The Bahamas 2023](https://www.vanderbilt.edu/lapop/bahamas/ABBHS2023-Pulse-of-Democracy-20240531.pdf)
+
+### [LAPOP’s AmericasBarometer takes the Pulse of Democracy in Suriname 2023](https://www.vanderbilt.edu/lapop/suriname/ABSUR2023-Pulse-of-Democracy-final-20240529.pdf)
+
+![](_gallery/img/jam_obs.jpg)
+
 
 ## 2022
 
@@ -14,11 +27,7 @@ Methodological note describing LAPOP's sampling strategy for the 2021 AmericasBa
 
 ### [The Political Culture of Democracy in Jamaica and in the Americas, 2021: Taking the Pulse of Democracy](https://www.vanderbilt.edu/lapop/jamaica/AB2021JAM-Country-Report-English-Final-220411.pdf)
 
-![](_gallery/img/jam_obs.jpg)
-
-Authored chapters 4-6 of a book-length report on results from a 2021 survey in Jamaica.
-
-The report received coverage from local media including [The Jamaica Observer](https://www.jamaicaobserver.com/news/corruption-contradiction/), [Nationwide Radio](https://nationwideradiojm.com/59-of-jamaicans-believe-the-islands-elite-can-buy-elections/), and [The Jamaica Gleaner](https://jamaica-gleaner.com/article/commentary/20220614/editorial-dr-clarkes-ministerial-bull).  
+2021 survey report from Jamaica received coverage from local media including [The Jamaica Observer](https://www.jamaicaobserver.com/news/corruption-contradiction/), [Nationwide Radio](https://nationwideradiojm.com/59-of-jamaicans-believe-the-islands-elite-can-buy-elections/), and [The Jamaica Gleaner](https://jamaica-gleaner.com/article/commentary/20220614/editorial-dr-clarkes-ministerial-bull).  
 
 ### [Pulse of Democracy](https://www.vanderbilt.edu/lapop/ab2021/2021_LAPOP_AmericasBarometer_2021_Pulse_of_Democracy.pdf)
 
