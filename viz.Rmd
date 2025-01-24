@@ -6,6 +6,18 @@ title: "Data Visualization Projects"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## LAPOP Data Playground
+
+I am the developer of LAPOP's new Data Playground, an interactive data visualization tool created in RShiny.    
+
+**Links:** [Data Playground](https://centerforglobaldemocracy.shinyapps.io/lapop-shiny/
+) | [Source Code](https://github.com/lapop-central/lapop-shiny)
+
+![](images/Screenshot 2025-01-24 002733.png)
+I previously worked as a contributor and manager of an older version in Tableau.  
+
+**Version 1.0:** [Tableau Dashboard](https://public.tableau.com/app/profile/lapop.central/viz/LAPOPV3_2/Combination?publish=yes) | [Source Code](https://github.com/vanderbilt-data-science/lapop-dashboard/tree/remove-label-numbers)
+
 ## `lapop` R package
 
 I am the creator and manager of the `lapop` R package, which automates the process of creating a variety of graphs using LAPOP data and formatting standards. 
@@ -14,11 +26,5 @@ I am the creator and manager of the `lapop` R package, which automates the proce
 
 ![](_gallery/img/db1.svg)
 
-## LAPOP Data Playground
 
-I am the current manager of LAPOP's Data Playground, an interactive data visualization tool created in Tableau.  
-
-**Links:** [Data Playground](https://public.tableau.com/app/profile/lapop.central/viz/LAPOPV3_2/Combination?publish=yes) | [Source Code](https://github.com/vanderbilt-data-science/lapop-dashboard/tree/remove-label-numbers)
-
-![](_gallery/img/dp.png)
 
