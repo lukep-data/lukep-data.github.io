@@ -8,13 +8,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 2024
 
-Authored three full-length reports detailing survey results from the Caribbean.  
+### [In the face of severe challenges, democracy is under stress – but still supported – across Latin America and the Caribbean](https://theconversation.com/in-the-face-of-severe-challenges-democracy-is-under-stress-but-still-supported-across-latin-america-and-the-caribbean-222959)
+
+![](images/conversation-image.jpg)
+Co-authored summary of the 2023 AmericasBarometer, showing significant concerns about democracy, but also some level of resilience.  
 
 ### [LAPOP’s AmericasBarometer takes the Pulse of Democracy in Jamaica 2023](https://www.vanderbilt.edu/lapop/jamaica/ABJAM2023-Pulse-of-democracy-final-20240703.pdf)
 
 ### [LAPOP’s AmericasBarometer takes the Pulse of Democracy in The Bahamas 2023](https://www.vanderbilt.edu/lapop/bahamas/ABBHS2023-Pulse-of-Democracy-20240531.pdf)
 
 ### [LAPOP’s AmericasBarometer takes the Pulse of Democracy in Suriname 2023](https://www.vanderbilt.edu/lapop/suriname/ABSUR2023-Pulse-of-Democracy-final-20240529.pdf)
+
+Authored three full-length reports detailing survey results from the Caribbean.
+
 
 ![](_gallery/img/jam_obs.jpg)
 
